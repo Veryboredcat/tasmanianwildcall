@@ -1,0 +1,160 @@
+/* Body Styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #888888;
+  color: #2e2e2e;
+  line-height: 1.7;
+  padding: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header Section */
+header {
+  background-color: #1e3d34;
+  color: #fff;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.8em;
+  margin-bottom: 10px;
+}
+
+header h2 {
+  color: #99d1b1;
+  margin-bottom: 15px;
+  font-size: 2em;
+}
+
+header p {
+  font-size: 1.2em;
+  color: #c7e1d3;
+}
+
+/*Links*/
+th {
+  background-color: #284f3a;
+  color: #e6f2ec;
+  margin: 30px auto;
+  text-align: center;
+  padding: 10px 0;
+
+}
+
+/* Navigation */
+nav {
+  background-color: #387755;
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #e6f2ec;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #99d1b1;
+}
+
+/* Main body section */
+main {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+main h2 {
+  color: #1e3d34;
+  margin-bottom: 0px;
+  font-size: 2.5em;
+}
+
+main h3 {
+  color: #acffd3e5;
+  margin-bottom: 30px;
+  margin-left:20px;
+  font-size: 1em;
+}
+
+main h4 {
+  color: #ffffff;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  font-size: 1.5em;
+}
+
+figcaption h4 {
+  color: #acffd39c;
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+/*List formatting*/
+ol {
+  color: #acffd3e5;
+  margin-bottom: 30px;
+  margin-left:30px;
+  font-size: 1em;
+}
+
+ul {
+  color: #acffd3e5;
+  margin-bottom: 30px;
+  margin-left:30px;
+  font-size: 1em;
+}
+
+ol h4 {
+  color: #befada;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  font-size: 1em;
+}
+
+ul h4 {
+  color: #befada;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  font-size: 1em;
+}
+
+/* Table formatting*/
+table {
+  color: #acffd3e5;
+  width: 120%;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #666666;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px 0;
+  background-color: #1e3d34;
+  color: #c7e1d3;
+  font-size: 0.9em;
+}
+
+button:hover,
+a.button:hover {
+  background-color: #234d37;
+}

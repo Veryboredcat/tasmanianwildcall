@@ -1,0 +1,27 @@
+* {
+    font-family: Times, Georgia, #00fbffb9 Serif;
+}
+
+body {
+    background-color: #6a6a6a;
+}
+
+h1 {
+    font-family: Times, #22e4acb9 serif;
+    color: #14c9cb;
+}
+
+i {
+    font-family: Times, Georgia, Garamond, #1bd7bbb9 serif;
+    background-color: #3e3e3e;
+    padding: 10px;
+    color: #22e4ac;
+    font-size: 150%;
+}
+
+i {
+    color: #0fbed8;
+}
+footer {
+    background-color: #3a3a3a;
+}
